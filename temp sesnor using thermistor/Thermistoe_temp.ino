@@ -25,8 +25,3 @@ void loop(){
   Serial.print("\n");
   delay(1000);
 }
-<<<<<<< HEAD
-
-=======
-
->>>>>>> def5ba820730d3a9149c441afc1fb545dcbabb7c
